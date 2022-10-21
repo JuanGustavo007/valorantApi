@@ -62,4 +62,8 @@ span {
 	color: rgb(255, 255, 255);
 	background: rgb(212, 13, 13);
 }
+.card-body,
+img {
+	background-color: white;
+}
 </style>

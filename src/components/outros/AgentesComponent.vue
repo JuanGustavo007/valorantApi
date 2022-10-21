@@ -58,14 +58,16 @@
 	color: white;
 	visibility: hidden;
 }
+
 .mostrar {
 	visibility: visible;
 }
 .estilo-component {
 	background-color: #ece8e1;
-	height: 100vh;
-	max-height: 730px;
+	height: 724px;
+	max-height: 2000px;
 }
+
 .formulario-estilo {
 	background-color: #ece8e1;
 }
