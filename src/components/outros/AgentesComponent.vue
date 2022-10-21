@@ -37,10 +37,7 @@
 			</div>
 		</div>
 		<div class="estilo-component" v-show="mostrar.length >= 1 ? true : false">
-			<component
-				:is="mostrar.toLowerCase()"
-				class="container estilo-component"
-			></component>
+			<component :is="mostrar.toLowerCase()" class="container"></component>
 		</div>
 
 		<div class="subir"><a href="#vava">Subir</a></div>
