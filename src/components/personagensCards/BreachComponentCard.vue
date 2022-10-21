@@ -8,7 +8,7 @@
 			</p>
 
 			<router-link to="/BreachHistoryComponent" class="rota">
-				<span>Ver mais</span>
+				<span>View more</span>
 			</router-link>
 		</div>
 	</div>
